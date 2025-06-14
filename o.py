@@ -1,0 +1,2 @@
+c = "berbish"
+print(c)

@@ -1,0 +1,2 @@
+x = "gamal"
+print(x)
